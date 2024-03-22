@@ -1,4 +1,4 @@
-name: soat-tech-hackaton
+name: soat-tech-hackaton-authentication
 services:
   db:
     image: "postgres:15.4"
