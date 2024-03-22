@@ -37,7 +37,7 @@ management:
 server:
   port: 8001
   servlet:
-    context-path: "/authentication"
+    context-path: "/"
 
 # --- Custom keys ---
 
@@ -52,4 +52,4 @@ info:
 jwt:
   token:
     key:
-      public: "${JWT_PUBLIC_KEY}"
+      private: "${JWT_PRIVATE_KEY:}"
