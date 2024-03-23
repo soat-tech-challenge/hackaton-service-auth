@@ -18,7 +18,7 @@ import java.security.spec.InvalidKeySpecException;
 @Tag(name = "empregados", description = "CRUD de empregados para gerenciamento")
 @RequiredArgsConstructor
 @RestController
-@RequestMapping("/authentication")
+@RequestMapping("/")
 public class EmployeeAPIController extends AbstractAPIController {
 
     private final EmployeeController employeeController;
