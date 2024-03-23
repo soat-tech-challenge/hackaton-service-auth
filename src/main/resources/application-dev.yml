@@ -19,6 +19,9 @@ spring:
     locations: classpath:db/migrations/{vendor}/
     enabled: true
 
+server:
+  port: 8001
+
 jwt:
   token:
     key:
