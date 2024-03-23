@@ -35,7 +35,7 @@ management:
         include: health, info, metrics, shutdown
 
 server:
-  port: 8080
+  port: 8001
   servlet:
     context-path: "/authentication"
 
