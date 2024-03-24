@@ -11,7 +11,7 @@
     </parent>
     <groupId>br.com.grupo63</groupId>
     <artifactId>hackatonserviceauth</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.4</version>
     <name>Hackaton service auth</name>
     <description>FIAP SOAT1 2023 - Group 63 - Hackaton (demo video) </description>
     <properties>
