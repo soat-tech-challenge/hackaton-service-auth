@@ -13,7 +13,7 @@
     <artifactId>hackatonserviceauth</artifactId>
     <version>0.1.4</version>
     <name>Hackaton service auth</name>
-    <description>FIAP SOAT1 2023 - Group 63 - Hackaton (demo video) </description>
+    <description>FIAP SOAT1 2023 - Group 63 - Hackaton (demo video 2) </description>
     <properties>
         <java.version>17</java.version>
     </properties>
